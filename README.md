@@ -10,7 +10,7 @@ https://medium.com/@jagadeesan.ganesh/mastering-llm-ai-agents-building-and-using
 - How To Think In Terms of Tasks & Flows With CrewAI <br>
 https://medium.com/@kamaljp/how-to-think-in-terms-of-tasks-flows-with-crewai-83ae840c24c7
 
-- CrewAI <br>
+- Building a multi agent system using CrewAI <br>
 https://medium.com/pythoneers/building-a-multi-agent-system-using-crewai-a7305450253e <br>
 
 

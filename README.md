@@ -1,6 +1,16 @@
 # AI Agents Guide
 
 ## Reference
+- AI Agents Fundamentals In 21 Minutes <br>
+https://www.youtube.com/watch?v=qU3fmidNbJE <br>
+https://www.youtube.com/@TinaHuang1 <br>
+
+- Building AI Agents <br>
+https://www.youtube.com/watch?v=NUPjbWsSe7s <br>
+
+- Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote <br>
+https://www.youtube.com/watch?v=KrRD7r7y7NY <br>
+
 - CrewAI: Build Your First AI Agent Team in Python <br>
 https://medium.com/ai-agent-insider/crewai-build-your-first-ai-agent-team-in-python-ac29b8496e9a <br>
 
@@ -16,3 +26,5 @@ https://medium.com/pythoneers/building-a-multi-agent-system-using-crewai-a730545
 
 - Automating Jira project management with Gemini 2.0 and Crew AI <br>
 https://medium.com/data-science-collective/automating-jira-project-management-with-gemini-2-0-and-crew-ai-40a5b5d03372 <br>
+
+- 

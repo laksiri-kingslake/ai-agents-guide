@@ -12,10 +12,17 @@ source venv/bin/activate #for ubuntu
 pip install smolagents python-dotenv
 ```
 
-3. Code agent (app.py)
+3. Code openai app (app.py)
 Install litellm extras for smolagents
 ```bash
 pip install 'smolagents[litellm]'
+```
+
+4. Code together app (app-together.py)
+
+5. Code yfinance app ()
+```bash
+pip install yfinance
 ```
 
 ## Reference
